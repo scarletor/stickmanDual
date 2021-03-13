@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: sgk_Data
+  m_EditorClassIdentifier: 
+  dataName: sgk
+  dragonBonesJSON: {fileID: 4900000, guid: 61ac819ad091ee34b9628f0ac179af37, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: e454a384b2960be4eb195b6876f25c2e, type: 3}
+    texture: {fileID: 2800000, guid: 9392047accf888b4bb051d2673c34b91, type: 3}
+    material: {fileID: 2100000, guid: b32e4a3020439c14ab85a385f9674dc5, type: 2}
+    uiMaterial: {fileID: 0}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: fide_Data
+  m_EditorClassIdentifier: 
+  dataName: fide
+  dragonBonesJSON: {fileID: 4900000, guid: df4df0b83dfc2a84fa2625fd69551c0b, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: e7e92428f5f59f840aae8d24809c3a41, type: 3}
+    texture: {fileID: 2800000, guid: 5c7e2c18831e55f42bd8500f3357f7b4, type: 3}
+    material: {fileID: 2100000, guid: 85e8d3d424f337a45b994c7c6ef17516, type: 2}
+    uiMaterial: {fileID: 0}
